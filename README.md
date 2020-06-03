@@ -1,19 +1,15 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
+<p align = "center">
+  <img src = "https://github.com/Jaofranca/Quizzler-flutter/blob/master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
 
-# Quizzler Challenge - Starting Files
+# Quizzler 
+A basic quiz app
 
-- Clone this repository to your local system.
+## What i've learned
+- Was a good way for me to improve my OOP knowledge
+- Using different archives in the same 
+- how to use dart lists 
 
-- Read the docs for the package we're using:
+## App
 
-[rFluttter Alert](https://pub.dartlang.org/packages/rflutter_alert)
-
-- Follow the step by step challenges.
-
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
