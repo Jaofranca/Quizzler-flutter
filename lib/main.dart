@@ -36,7 +36,7 @@ class _QuizPageState extends State<QuizPage> {
 
     setState(() {
       if (quizBrain.isFinished()) {
-        Alert(context: context, title: 'ending', desc: 'do carai mermão')
+        Alert(context: context, title: 'Congratulations', desc: 'Press cancel to do the quiz again')
             .show();
         quizBrain.reset();
         scoreKeeper.removeRange(0, scoreKeeper.length);
@@ -54,7 +54,6 @@ class _QuizPageState extends State<QuizPage> {
         }
       }
 
-      //TODO: Step 5 - If we've not reached the end, ELSE do the answer checking steps below 👇
 
       quizBrain.nextQuestion();
     });
