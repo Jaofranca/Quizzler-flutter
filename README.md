@@ -7,7 +7,7 @@ A basic quiz app
 
 ## What i've learned
 - Was a good way for me to improve my OOP knowledge
-- Using different archives in the same 
+- Using different archives in the same project
 - how to use dart lists 
 
 ## App
